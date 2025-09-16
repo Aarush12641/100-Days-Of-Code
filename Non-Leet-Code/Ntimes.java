@@ -1,3 +1,4 @@
+//! Prints the number from 1 to N
 
 import java.util.Scanner;
 
